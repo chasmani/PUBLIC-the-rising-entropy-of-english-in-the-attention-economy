@@ -171,7 +171,5 @@ def summarise_measures_bnc():
 	print(counter)
 
 
-
-
 if __name__=="__main__":
 	summarise_measures_bnc()
